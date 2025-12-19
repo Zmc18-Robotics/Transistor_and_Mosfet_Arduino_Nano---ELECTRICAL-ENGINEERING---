@@ -5,16 +5,15 @@ Transistor and Mosfet connections with Arduino, controllable LED with buttons
 
 # Here the Pictures :
 
-<img width="675" height="359" alt="image" src="https://github.com/user-attachments/assets/5a6325d2-67a8-4192-9e13-2eaebe325517" />
+<img width="630" height="344" alt="image" src="https://github.com/user-attachments/assets/cd9004c7-4176-42ea-814a-6a0336c19456" />
 
+<img width="475" height="334" alt="image" src="https://github.com/user-attachments/assets/7a7b1f04-14fa-4154-abf1-4f3a595f57c2" />
 
-<img width="583" height="343" alt="image" src="https://github.com/user-attachments/assets/5e62fee2-66b6-47eb-bb8e-553dd9dab5dd" />
-
-<img width="596" height="358" alt="sc2" src="https://github.com/user-attachments/assets/bc3b8bd7-52d1-480f-b542-4dd502ea2b15" />
+<img width="446" height="358" alt="image" src="https://github.com/user-attachments/assets/399074b5-037f-4e16-b021-0abd67884ff6" />
 
 # Electrical Circuit :
 
-![IMG_20251219_151501](https://github.com/user-attachments/assets/1fcaf753-7430-407b-9887-d34c9f98104a)
+![IMG_20251219_195700](https://github.com/user-attachments/assets/546b6061-34da-484e-8ebf-a221c76cd980)
 
 ---
 
