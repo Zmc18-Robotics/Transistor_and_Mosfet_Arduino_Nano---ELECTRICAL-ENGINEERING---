@@ -33,6 +33,7 @@ Here the materials :
 - Resistor 220Ω x7
 - Resistor 1000Ω x4
 - Breadboard x2
+- Power Supply x1
   
 ---
 
